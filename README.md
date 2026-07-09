@@ -19,7 +19,7 @@
 
 **![Población de 12 años y más según condición de actividad (2020)](img/poblacion_pea_inac_modificado.png)**
 
-**![Población de 12 años y más Económicamente Activa (PEA) por Género en Alcaldías de CDMX](img/edad_viajes_donapoblacion_pea_genero_cdmx.png)**
+**![Población de 12 años y más Económicamente Activa (PEA) por Género en Alcaldías de CDMX](img/poblacion_pea_genero_cdmx.png)**
 
 **![](img/cicloestaciones_alcaldia.png)**
 
