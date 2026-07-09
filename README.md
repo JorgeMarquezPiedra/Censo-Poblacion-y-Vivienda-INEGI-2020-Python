@@ -25,7 +25,7 @@
 
 **![Población con Limitante por Alcaldía (2020)](img/tipos_limitante_cdmx.png)**
 
-**![](img/retiros_dia_mes.png)**
+**![Población de 3 a 14 años que asiste o no asiste a la escuela por Entidad Federativa](img/poblacion_asiste_escuela.png)**
 
 **![](img/retiros_dia_semana.png)**
 
