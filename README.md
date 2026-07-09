@@ -1,2 +1,34 @@
 # Censo-Poblacion-y-Vivienda-INEGI-2020-Python
-Análisis exploratorio de datos (EDA) de información demográfica y de vivienda. Utilizando Pyhon y datos del Censo de Población y Vivienda 2020 del INEGI, se limpiaron, filtraron, y analizaron los resultados para visualizar mediante gráficos diferentes indicadores de interés a nivel estatal y municipal.
+
+**Lenguaje: Python**
+
+**Librerías: Pandas, Matplotlib, Seaborn, NumPy**
+
+**Entornos: Google Colab / Jupyter Notebook**
+
+
+## Este repositorio contiene un análisis integral desarrollado en Python para procesar, limpiar y diagnosticar los principales resultados por localidad (ITER) del Censo de Población y Vivienda 2020 de México (INEGI). 
+
+## El proyecto automatiza la conversión de variables complejas del censo (ITER) para generar tanto pirámides poblacionales estructuradas como diversos gráficos de barras que evalúan casi la totalidad de los indicadores demográficos y de viviendas del país a nivel estatal y municipal.
+
+**![Pirámide Poblacional: México (Censo 2020)](img/piramide_total_nacional.png)**
+
+**![Pirámide Poblacional: Ciudad de México (Censo 2020)](img/piramide_Ciudad_de_México.png)**
+
+**![](img/retiros_dia_hora_personalizado.png)**
+
+**![](img/genero_viajes_dona.png)**
+
+**![](img/edad_viajes_dona.png)**
+
+**![](img/cicloestaciones_alcaldia.png)**
+
+**![](img/cicloestaciones_colonia.png)**
+
+**![](img/retiros_dia_mes.png)**
+
+**![](img/retiros_dia_semana.png)**
+
+**![](img/histograma_velocidad_viento.png)**
+
+## Los datos fueron obtenidos del [Censo de Población y Vivienda (CPV) 2020 del INEGI](https://www.inegi.org.mx/programas/ccpv/2020/#microdatos).
