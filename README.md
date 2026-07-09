@@ -15,7 +15,7 @@
 
 **![Pirámide Poblacional: Ciudad de México (Censo 2020)](img/piramide_Ciudad_de_México.png)**
 
-**![](img/retiros_dia_hora_personalizado.png)**
+**![Población Total por Entidad Federativa (2020)](img/poblacion_total.png)**
 
 **![](img/genero_viajes_dona.png)**
 
