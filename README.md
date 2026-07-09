@@ -9,7 +9,7 @@
 
 ## Este repositorio contiene un análisis integral desarrollado en Python para procesar, limpiar y diagnosticar los principales resultados por localidad (ITER) del Censo de Población y Vivienda 2020 de México (INEGI). 
 
-## El proyecto automatiza la conversión de variables complejas del censo (ITER) para generar tanto pirámides poblacionales estructuradas como diversos gráficos de barras que evalúan casi la totalidad de los indicadores demográficos y de viviendas del país a nivel estatal y municipal.
+El proyecto automatiza la conversión de variables complejas del censo (ITER) para generar tanto pirámides poblacionales estructuradas como diversos gráficos de barras que evalúan casi la totalidad de los indicadores demográficos y de viviendas del país a nivel estatal y municipal.
 
 **![Pirámide Poblacional: México (Censo 2020)](img/piramide_total_nacional.png)**
 
