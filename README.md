@@ -23,7 +23,7 @@
 
 **![Población con Discapacidad por Alcaldía (2020)](img/tipos_discapacidad_cdmx.png)**
 
-**![Población con Limitante por Alcaldía (2020)](tipos_limitante_cdmx.png)**
+**![Población con Limitante por Alcaldía (2020)](img/tipos_limitante_cdmx.png)**
 
 **![](img/retiros_dia_mes.png)**
 
