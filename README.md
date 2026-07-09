@@ -17,9 +17,9 @@
 
 **![Población Total por Entidad Federativa (2020)](img/poblacion_total.png)**
 
-**![](img/genero_viajes_dona.png)**
+**![Población de 12 años y más según condición de actividad (2020)](img/poblacion_pea_inac_modificado.png)**
 
-**![](img/edad_viajes_dona.png)**
+**![Población de 12 años y más Económicamente Activa (PEA) por Género en Alcaldías de CDMX](img/edad_viajes_donapoblacion_pea_genero_cdmx.png)**
 
 **![](img/cicloestaciones_alcaldia.png)**
 
