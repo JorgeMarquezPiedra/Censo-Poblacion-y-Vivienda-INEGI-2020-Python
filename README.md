@@ -29,10 +29,10 @@
 
 **![Población con Limitante por Alcaldía (2020)](img/tipos_limitante_cdmx.png)**
 
-**![Población de 3 a 14 años que asiste o no asiste a la escuela por Entidad Federativa](img/poblacion_asiste_y_no_asiste_escuela_3_14.png)**
+**![Población de 3 a 14 años que asiste o no asiste a la escuela por Entidad Federativa (2020)](img/poblacion_asiste_y_no_asiste_escuela_3_14.png)**
 
 **![](img/retiros_dia_semana.png)**
 
-**![](img/histograma_velocidad_viento.png)**
+**![Viviendas Particulares Habitadas por Número de Cuartos y Entidad Federativa (2020)](img/viviendas_numero_cuartos.png)**
 
 ## Los datos fueron obtenidos del [Censo de Población y Vivienda (CPV) 2020 del INEGI](https://www.inegi.org.mx/programas/ccpv/2020/#microdatos).
