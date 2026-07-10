@@ -15,6 +15,8 @@
 
 **![Pirámide Poblacional: Ciudad de México (Censo 2020)](img/piramide_Ciudad_de_México.png)**
 
+**![Tipos de Viviendas Particulares por Entidad Federativa (2020)](img/tipos_viviendas_particulares.png)**
+
 **![Población Total por Entidad Federativa (2020)](img/poblacion_total.png)**
 
 **![Población de 12 años y más según condición de actividad (2020)](img/poblacion_pea_inac_modificado.png)**
