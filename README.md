@@ -17,6 +17,8 @@
 
 **![Tipos de Viviendas Particulares por Entidad Federativa (2020)](img/tipos_viviendas_particulares.png)**
 
+**![Viviendas Particulares Habitadas sin Tecnologías Específicas por Entidad Federativa (2020)](img/viviendas_sin_tecnologias.png)**
+
 **![Población Total por Entidad Federativa (2020)](img/poblacion_total.png)**
 
 **![Población de 12 años y más según condición de actividad (2020)](img/poblacion_pea_inac_modificado.png)**
