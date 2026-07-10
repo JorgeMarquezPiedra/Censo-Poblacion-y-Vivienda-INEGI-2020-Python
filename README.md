@@ -31,7 +31,7 @@
 
 **![Población de 3 a 14 años que asiste o no asiste a la escuela por Entidad Federativa (2020)](img/poblacion_asiste_y_no_asiste_escuela_3_14.png)**
 
-**![](img/retiros_dia_semana.png)**
+**![Grado Promedio de Escolaridad por Género y Alcaldía (2020)](img/grado_promedio_escolaridad_genero_cdmx.png)**
 
 **![Viviendas Particulares Habitadas por Número de Cuartos y Entidad Federativa (2020)](img/viviendas_numero_cuartos.png)**
 
