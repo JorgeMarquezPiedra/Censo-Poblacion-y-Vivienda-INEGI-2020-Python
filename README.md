@@ -37,4 +37,6 @@
 
 **![Viviendas Particulares Habitadas por Número de Cuartos y Entidad Federativa (2020)](img/viviendas_numero_cuartos.png)**
 
+**![Viviendas Particulares Habitadas por Disponibilidad de Vehículos y Entidad Federativa (2020)](img/viviendas_bienes_hogar_vehiculos.png)**
+
 ## Los datos fueron obtenidos del [Censo de Población y Vivienda (CPV) 2020 del INEGI](https://www.inegi.org.mx/programas/ccpv/2020/#microdatos).
