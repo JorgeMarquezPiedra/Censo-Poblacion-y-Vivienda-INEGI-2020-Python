@@ -29,6 +29,8 @@
 
 **![Población con Limitante por Alcaldía (2020)](img/tipos_limitante_cdmx.png)**
 
+**![Población con y sin afiliación a servicios de salud por Alcaldía (2020)](img/poblacion_salud_afiliacion_cdmx.png)**
+
 **![Población de 3 a 14 años que asiste o no asiste a la escuela por Entidad Federativa (2020)](img/poblacion_asiste_y_no_asiste_escuela_3_14.png)**
 
 **![Grado Promedio de Escolaridad por Género y Alcaldía (2020)](img/grado_promedio_escolaridad_genero_cdmx.png)**
